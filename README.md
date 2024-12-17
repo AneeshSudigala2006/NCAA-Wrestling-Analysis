@@ -1,6 +1,6 @@
 # NCAA-Wrestling-Analysis
 
-![Bar Graph of Wrestlers by Weight Class](https://drive.google.com/file/d/14CaYkfqJgt88PFhDW6-GQtVSC8eCz6Ay/view?usp=sharing)
+![Bar Graph of Wrestlers by Weight Class](https://raw.githubusercontent.com/AneeshSudigala2006/NCAA-Wrestling-Analysis/refs/heads/main/Visualization/Viz1.png)
 
 ### **Overview**
 
