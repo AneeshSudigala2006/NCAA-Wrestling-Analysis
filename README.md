@@ -6,7 +6,7 @@
 
 **This repository was created for Coach Koll of Carolina Wrestling at the University of North Carolina at Chapel Hill.**
 
-It contains the [Visualization](https://github.com/AneeshSudigala2006/NCAA-Wrestling-Analysis/tree/main/Visualization) that was made through the [NCAA Wrestling Data]([https://github.com/AneeshSudigala2006/NCAA-Wrestling-Analysis/tree/main/Data](https://github.com/AneeshSudigala2006/NCAA-Wrestling-Data/tree/main)).
+It contains the [Visualization](https://github.com/AneeshSudigala2006/NCAA-Wrestling-Analysis/tree/main/Visualization) that was made through the [NCAA Wrestling Data](https://github.com/AneeshSudigala2006/NCAA-Wrestling-Data/tree/main).
 
 ### **Purpose**
 
